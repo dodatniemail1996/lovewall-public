@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://lovewall.me/
+
+# Sitemaps
+Sitemap: https://lovewall.me/sitemap.xml
